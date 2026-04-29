@@ -36,3 +36,4 @@ Atualmente estou estudando **Golang**, explorando conceitos de performance, conc
 
 - GitHub: https://github.com/Alansnider  
 - Email: aalantqr@gmail.com
+- Linkedin:https://www.linkedin.com/in/alan-ferreira-08535132b/
