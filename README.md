@@ -2,7 +2,6 @@
 # 👋 Olá, eu sou Alan
 
 💻 Desenvolvedor C e Java  
-📚 Estudante de Golang  
 🚀 Entusiasta de tecnologia e sistemas computacionais  
 
 ---
