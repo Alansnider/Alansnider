@@ -10,8 +10,7 @@
 
 Sou um desenvolvedor focado em programação  C e Java, sempre buscando evoluir minhas habilidades em backend e arquitetura de sistemas.
 
-Atualmente estou estudando **Golang**, explorando conceitos de performance, concorrência e desenvolvimento de sistemas modernos.
-
+Completo meus estudos lendo livros e cursos complementares
 ---
 
 ## 🧠 Tecnologias
