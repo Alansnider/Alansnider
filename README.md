@@ -2,122 +2,88 @@
 <h1 align="center">👨‍💻 Alan Ferreira</h1>
 
 <p align="center">
-  <b>Software Engineer | Backend Systems | Distributed Systems Enthusiast</b>
+  <b>Software Engineer | Backend Systems | Full Stack (Java, C, React, Angular)</b>
 </p>
 
 <p align="center">
-  Java • C • React • Angular • System Design • Clean Architecture
+  Designing scalable systems • Writing clean architecture • Building reliable software
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alansnider&color=blue" />
+  <img src="https://img.shields.io/github/followers/Alansnider?style=social" />
+  <img src="https://img.shields.io/github/stars/Alansnider?style=social" />
 </p>
 
 ---
 
-## 🧠 Engineering Summary
+## 🧠 Engineering Focus
 
-Software Engineer focused on building **reliable, scalable and maintainable systems**.
+I build **reliable, maintainable and scalable software systems** with strong focus on:
 
-My focus is on:
-
-- 🏗️ System Design (scalability, reliability, trade-offs)
+- 🏗️ System Design (scalability, modularity, performance)
 - ⚙️ Backend Engineering (Java, C, REST APIs)
 - 🌐 Frontend Engineering (React, Angular)
-- 🔐 Authentication & Security Systems
-- 📦 Clean Architecture & modular design
+- 🔐 Security & authentication systems
+- 📦 Clean Architecture & SOLID principles
 
 ---
 
 ## 🧰 Tech Stack
 
 ### Backend
-- Java (Spring Boot)
-- C (low-level systems)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Frontend
-- React
-- Angular
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### Database & Tools
-- SQL
-- Git / GitHub
-- REST APIs
+### Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🏗️ System Design Competencies
+## 🏗️ System Design & Engineering Principles
 
-### Architecture Patterns
 - Layered Architecture (Controller → Service → Repository)
-- Monolithic & Modular Monolith systems
-- RESTful API design
-- Stateless authentication (JWT-based systems)
-
-### Core Engineering Principles
-- SOLID principles
-- Separation of concerns
-- High cohesion / low coupling
+- RESTful API Design
+- Stateless Authentication (JWT)
 - Domain-driven thinking (DDD basics)
-
-### Scalability Concepts
-- Horizontal vs vertical scaling
-- Stateless services
-- API versioning strategies
-- Error handling strategies (global exception handling)
+- SOLID principles & Clean Code
+- Error handling strategy (global exception management)
 
 ---
 
-## 🔐 Security & Authentication Systems
-
-- JWT-based authentication flows
-- Spring Security integration
-- Role-based access control (RBAC)
-- Secure password hashing strategies
-- Auth service separation (Auth vs User domain)
-
----
-
-## 🚀 Engineering Projects
+## 🚀 Featured Projects
 
 ### 🔐 Authentication System (Spring Boot + JWT)
-**Problem:** Secure user authentication for stateless API systems
-
-**Solution:**
-- JWT token generation and validation
-- Role-based authorization
-- Secure password storage
-- Separation of Auth and User services
-
-**Key Learnings:**
-- Stateless system design
-- Security boundaries in backend systems
+- User registration & login
+- JWT-based authentication
+- Role-based access control
+- Secure password hashing
 
 ---
 
-### 👥 User Management System
-**Problem:** Scalable user CRUD with validation and maintainability
-
-**Solution:**
-- Clean layered architecture
+### 👥 User Management API
+- Full CRUD operations
 - DTO validation layer
 - Centralized exception handling
-- Repository abstraction
-
-**Key Learnings:**
-- Clean architecture structure
-- Error handling strategy design
+- Clean architecture separation
 
 ---
 
-### 🌐 Frontend System (React / Angular)
-**Problem:** Efficient API consumption and UI scalability
-
-**Solution:**
+### 🌐 Frontend Dashboard (React / Angular)
+- API integration with backend services
 - Component-based architecture
-- API integration layer
-- State handling
-- Reusable UI components
+- State management
+- Responsive UI
 
 ---
 
-## 📊 Engineering Metrics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alansnider&show_icons=true&theme=tokyonight" />
@@ -137,38 +103,43 @@ My focus is on:
 
 ---
 
-## 🧠 System Design Thinking
+## 🐍 Contribution Graph
 
-When designing systems, I focus on:
-
-- What problem is being solved?
-- What is the expected load (scale)?
-- What are the failure scenarios?
-- How do we ensure consistency vs availability?
-- What are the trade-offs?
-
-> “Every system design decision is a trade-off between complexity, scalability, and cost.”
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 📈 Growth Areas
+## 💡 Engineering Philosophy
 
+> “Good software is not the one that works — it is the one that survives scale, change and time.”
+
+- Simplicity beats complexity
+- Design before implementation
+- Maintainability > speed
+- Systems > features
+
+---
+
+## 📈 Continuous Growth
+
+- System Design (low-level + high-level)
 - Distributed systems fundamentals
-- Microservices architecture
-- Event-driven systems
-- Performance optimization
-- Cloud-native architectures
+- Backend performance optimization
+- Frontend architecture patterns
+- DevOps awareness (CI/CD concepts)
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/alan-ferreira-08535132b/
-- GitHub: https://github.com/Alansnider
-- Email: aalantqr@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/alan-ferreira-08535132b/  
+- 🐙 GitHub: https://github.com/Alansnider  
+- 📧 Email: aalantqr@gmail.com  
 
 ---
 
-## 🎯 Goal
+## 🎯 Career Goal
 
-Become a **Software Engineer capable of designing and scaling distributed systems**, with strong fundamentals in backend architecture, reliability engineering, and system design.
+To grow as a **Software Engineer capable of designing large-scale distributed systems**, focusing on backend architecture, performance and reliability.
