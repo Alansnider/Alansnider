@@ -8,17 +8,20 @@
 
 ## 👋 Olá, eu sou Alan
 
-💻 Desenvolvedor **C e Java**  
+💻 Desenvolvedor **C, Java e Front-end moderno**  
 🚀 Entusiasta de tecnologia e sistemas computacionais  
-🧠 Focado em backend, performance e arquitetura de sistemas  
+🧠 Focado em backend, frontend e arquitetura de sistemas  
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em **programação em C e Java**, sempre buscando evolução contínua em:
+Sou um desenvolvedor apaixonado por tecnologia, com foco em **programação C e Java**, e também explorando desenvolvimento web moderno com frameworks frontend.
+
+Sempre buscando evolução contínua em:
 
 - Backend robusto  
+- Front-end moderno  
 - Arquitetura de sistemas  
 - Boas práticas de engenharia de software  
 
@@ -34,12 +37,16 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em **programação em C
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 ---
 
 ## ⚡ Interesses
 
 - 🏗️ Arquitetura de Sistemas  
 - ⚙️ Engenharia de Backend  
+- 🎨 Front-end moderno (React / Angular)  
 - 🚀 Performance de Software  
 - 🌍 Open Source  
 - 🔐 Sistemas distribuídos (em evolução)
@@ -64,4 +71,4 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em **programação em C
 
 ## 🚀 Objetivo
 
-Construir sistemas eficientes, escaláveis e bem arquitetados, evoluindo continuamente como engenheiro de software backend.
+Construir sistemas eficientes, escaláveis e bem arquitetados, evoluindo continuamente como engenheiro de software full stack.
