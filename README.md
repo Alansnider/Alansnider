@@ -1,8 +1,12 @@
-<!-- HEADER BANNER -->
+<!-- HERO -->
 <h1 align="center">👨‍💻 Alan Ferreira</h1>
 
 <p align="center">
-  <b>Software Engineer | Backend (Java & C) | Frontend (Angular & React)</b>
+  <b>Software Engineer | Backend Systems | Full Stack (Java, C, React, Angular)</b>
+</p>
+
+<p align="center">
+  Designing scalable systems • Writing clean architecture • Building reliable software
 </p>
 
 <p align="center">
@@ -13,20 +17,19 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Engineering Focus
 
-Sou desenvolvedor com foco em **engenharia de software**, atuando com:
+I build **reliable, maintainable and scalable software systems** with strong focus on:
 
-- Backend robusto com **Java e C**
-- Frontend moderno com **React e Angular**
-- Arquitetura de sistemas e boas práticas
-- Performance e escalabilidade
-
-Busco construir sistemas **simples, eficientes e escaláveis**, sempre evoluindo com base em fundamentos sólidos de engenharia de software.
+- 🏗️ System Design (scalability, modularity, performance)
+- ⚙️ Backend Engineering (Java, C, REST APIs)
+- 🌐 Frontend Engineering (React, Angular)
+- 🔐 Security & authentication systems
+- 📦 Clean Architecture & SOLID principles
 
 ---
 
-## 🧠 Tech Stack
+## 🧰 Tech Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -36,20 +39,47 @@ Busco construir sistemas **simples, eficientes e escaláveis**, sempre evoluindo
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### Database & Tools
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🏗️ Arquitetura & Engenharia
+## 🏗️ System Design & Engineering Principles
 
-- APIs REST bem estruturadas
-- Arquitetura em camadas (Controller / Service / Repository)
-- Princípios SOLID
-- Clean Code & Refactoring
-- Design de sistemas escaláveis
+- Layered Architecture (Controller → Service → Repository)
+- RESTful API Design
+- Stateless Authentication (JWT)
+- Domain-driven thinking (DDD basics)
+- SOLID principles & Clean Code
+- Error handling strategy (global exception management)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Authentication System (Spring Boot + JWT)
+- User registration & login
+- JWT-based authentication
+- Role-based access control
+- Secure password hashing
+
+---
+
+### 👥 User Management API
+- Full CRUD operations
+- DTO validation layer
+- Centralized exception handling
+- Clean architecture separation
+
+---
+
+### 🌐 Frontend Dashboard (React / Angular)
+- API integration with backend services
+- Component-based architecture
+- State management
+- Responsive UI
 
 ---
 
@@ -65,46 +95,44 @@ Busco construir sistemas **simples, eficientes e escaláveis**, sempre evoluindo
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alansnider&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Alansnider&theme=tokyonight" />
 </p>
 
 ---
 
-## 📌 Projetos em Destaque
+## 🐍 Contribution Graph
 
-> (adicione seus projetos reais aqui)
-
-### 🔹 Sistema de Autenticação JWT (Spring Boot)
-- Login / Registro de usuários
-- Spring Security + JWT
-- Arquitetura em camadas
-
-### 🔹 API REST de Usuários
-- CRUD completo
-- Validação de dados
-- Exception handling global
-
-### 🔹 Frontend Dashboard (React / Angular)
-- Consumo de API REST
-- Componentização
-- Estado e performance
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## ⚡ Filosofia de Engenharia
+## 💡 Engineering Philosophy
 
-> "Código não é apenas para funcionar, é para ser mantido, escalado e evoluído."
+> “Good software is not the one that works — it is the one that survives scale, change and time.”
 
-- Clareza > complexidade
-- Arquitetura > atalhos
-- Consistência > velocidade momentânea
+- Simplicity beats complexity
+- Design before implementation
+- Maintainability > speed
+- Systems > features
 
 ---
 
-## 📫 Contato
+## 📈 Continuous Growth
+
+- System Design (low-level + high-level)
+- Distributed systems fundamentals
+- Backend performance optimization
+- Frontend architecture patterns
+- DevOps awareness (CI/CD concepts)
+
+---
+
+## 📫 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/alan-ferreira-08535132b/  
 - 🐙 GitHub: https://github.com/Alansnider  
@@ -112,6 +140,6 @@ Busco construir sistemas **simples, eficientes e escaláveis**, sempre evoluindo
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Career Goal
 
-Evoluir como **Software Engineer Full Stack**, dominando backend, frontend e arquitetura de sistemas distribuídos.
+To grow as a **Software Engineer capable of designing large-scale distributed systems**, focusing on backend architecture, performance and reliability.
