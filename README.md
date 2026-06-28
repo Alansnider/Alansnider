@@ -1,148 +1,89 @@
+<!-- HERO -->
 <h1 align="center">👨‍💻 Alan Ferreira</h1>
 
 <p align="center">
-  <b>Staff Software Engineer (Aspiring) | Distributed Systems | Backend Architecture</b>
+  <b>Software Engineer | Backend Systems | Full Stack (Java, C, React, Angular)</b>
 </p>
 
 <p align="center">
-  Java • C • System Design • Distributed Systems • Frontend (React / Angular)
+  Designing scalable systems • Writing clean architecture • Building reliable software
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alansnider&color=blue" />
+  <img src="https://img.shields.io/github/followers/Alansnider?style=social" />
+  <img src="https://img.shields.io/github/stars/Alansnider?style=social" />
 </p>
 
 ---
 
-## 🧭 Engineering Philosophy
+## 🧠 Engineering Focus
 
-I design systems with focus on:
+I build **reliable, maintainable and scalable software systems** with strong focus on:
 
-- 🧱 **Scalability over simplicity trade-offs**
-- 🔁 **Reliability under failure conditions**
-- ⚙️ **Operational excellence**
-- 📉 **Reducing system complexity over time**
-- 📦 **Modular, evolvable architectures**
-
-> “A Staff Engineer’s job is not to write more code — it is to design systems that reduce future complexity.”
+- 🏗️ System Design (scalability, modularity, performance)
+- ⚙️ Backend Engineering (Java, C, REST APIs)
+- 🌐 Frontend Engineering (React, Angular)
+- 🔐 Security & authentication systems
+- 📦 Clean Architecture & SOLID principles
 
 ---
 
-## 🧠 Scope of Engineering Work
+## 🧰 Tech Stack
 
-As a Staff-level mindset, I focus on:
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🏗️ System Architecture
-- Defining service boundaries
-- Designing distributed systems
-- Identifying scalability bottlenecks
-- Establishing architecture standards
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### ⚙️ Technical Leadership
-- Guiding backend architecture decisions
-- Reviewing system-wide design trade-offs
-- Defining coding and architectural standards
-
-### 🔐 Reliability Engineering
-- Failure mode analysis
-- Resilient API design
-- Stateless system design
-- Observability (logging, monitoring concepts)
+### Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🧰 Technology Stack
+## 🏗️ System Design & Engineering Principles
 
-### Backend Systems
-- Java (Spring Boot)
-- C (systems programming fundamentals)
-
-### Frontend Systems
-- React (component architecture)
-- Angular (enterprise applications)
-
-### Infrastructure Concepts
-- REST APIs
-- SQL databases
-- Git-based workflows
-- Clean architecture patterns
+- Layered Architecture (Controller → Service → Repository)
+- RESTful API Design
+- Stateless Authentication (JWT)
+- Domain-driven thinking (DDD basics)
+- SOLID principles & Clean Code
+- Error handling strategy (global exception management)
 
 ---
 
-## 🏗️ System Design Portfolio
+## 🚀 Featured Projects
 
-### 🔐 Authentication & Identity System
-
-**Problem**
-Design a secure authentication system for stateless distributed APIs.
-
-**Architecture**
+### 🔐 Authentication System (Spring Boot + JWT)
+- User registration & login
 - JWT-based authentication
-- Stateless backend services
-- Role-based access control (RBAC)
-- Separate Auth and User domains
-
-**Key Design Decisions**
-- Stateless tokens to improve horizontal scaling
-- Separation of authentication vs domain logic
-- Centralized security layer (Spring Security)
+- Role-based access control
+- Secure password hashing
 
 ---
 
-### 👥 User Management System (Scalable CRUD Service)
-
-**Problem**
-Design a maintainable user management service with evolving business rules.
-
-**Architecture**
-- Controller → Service → Repository layers
+### 👥 User Management API
+- Full CRUD operations
 - DTO validation layer
-- Global exception handling strategy
-- Clean separation of concerns
-
-**Trade-offs**
-- Increased abstraction vs maintainability
-- Flexibility for future business rules
+- Centralized exception handling
+- Clean architecture separation
 
 ---
 
-### 🌐 Frontend System (React / Angular)
-
-**Problem**
-Build scalable UI systems consuming backend APIs efficiently.
-
-**Architecture**
-- Component-based structure
-- API integration layer
-- Separation of UI and business logic
-- Reusable components
+### 🌐 Frontend Dashboard (React / Angular)
+- API integration with backend services
+- Component-based architecture
+- State management
+- Responsive UI
 
 ---
 
-## 🧱 Architecture Principles
-
-### Design Principles
-- SOLID principles
-- Clean Architecture
-- High cohesion / low coupling
-- Domain-driven thinking (DDD fundamentals)
-
-### System Design Principles
-- Stateless services
-- Horizontal scaling readiness
-- Idempotent APIs where needed
-- Backward-compatible API evolution
-
----
-
-## 🔥 Engineering Trade-offs I Consider
-
-Every system design decision involves trade-offs:
-
-- Performance vs complexity
-- Consistency vs availability
-- Abstraction vs readability
-- Speed of delivery vs long-term maintainability
-
----
-
-## 📊 Engineering Signals
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alansnider&show_icons=true&theme=tokyonight" />
@@ -154,41 +95,51 @@ Every system design decision involves trade-offs:
 
 ---
 
-## 🧠 System Thinking (Staff-Level)
+## 🔥 Contribution Activity
 
-When approaching a system, I ask:
-
-- What breaks when traffic increases 10x?
-- What happens when a dependency fails?
-- Where are the bottlenecks?
-- How do we evolve this system in 2–3 years?
-- What complexity are we introducing today?
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Alansnider&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 Growth Focus Areas
+## 🐍 Contribution Graph
 
-- Distributed systems at scale
-- Event-driven architecture (Kafka-style thinking)
-- Microservices design patterns
-- Cloud-native systems
-- Observability & reliability engineering (SRE concepts)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💡 Engineering Philosophy
+
+> “Good software is not the one that works — it is the one that survives scale, change and time.”
+
+- Simplicity beats complexity
+- Design before implementation
+- Maintainability > speed
+- Systems > features
+
+---
+
+## 📈 Continuous Growth
+
+- System Design (low-level + high-level)
+- Distributed systems fundamentals
+- Backend performance optimization
+- Frontend architecture patterns
+- DevOps awareness (CI/CD concepts)
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/alan-ferreira-08535132b/
-- GitHub: https://github.com/Alansnider
-- Email: aalantqr@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/alan-ferreira-08535132b/  
+- 🐙 GitHub: https://github.com/Alansnider  
+- 📧 Email: aalantqr@gmail.com  
 
 ---
 
-## 🎯 Staff Engineer Goal
+## 🎯 Career Goal
 
-Evolve into a Staff-level engineer capable of:
-
-- Designing distributed systems at scale
-- Setting technical direction across teams
-- Reducing system complexity over time
-- Making high-impact architectural decisions
+To grow as a **Software Engineer capable of designing large-scale distributed systems**, focusing on backend architecture, performance and reliability.
