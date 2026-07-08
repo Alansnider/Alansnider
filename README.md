@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Designing scalable systems • Writing clean architecture • Building reliable software
+Projetar sistemas escaláveis ​​• Escrever arquitetura limpa • Construir software confiável
 </p>
 
 <p align="center">
