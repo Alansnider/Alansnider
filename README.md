@@ -1,147 +1,17 @@
-<!-- HERO -->
-<h1 align="center">👨‍💻 Alan Ferreira</h1>
+👨‍💻 Alan Ferreira
+Software Engineer | Backend Systems | Full Stack Developer
 
-<p align="center">
-  <b>Software Engineer | Backend Systems | Full Stack (Java, C, React, Angular)</b>
-   </b>Um profissional técnico com perfil de liderança humana: alguém que aprende profundamente, conecta pessoas e transforma conhecimento em soluções
-   estruturadas.</b>
-</p>
+A pessoa que entende o problema do negócio e transforma desafios complexos em soluções técnicas bem construídas.
 
-<p align="center">
-Projetar sistemas escaláveis ​​• Escrever arquitetura limpa • Construir software confiável
-</p>
+Um profissional técnico com perfil de liderança humana: alguém que aprende profundamente, conecta pessoas e transforma conhecimento em soluções estruturadas.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alansnider&color=blue" />
-  <img src="https://img.shields.io/github/followers/Alansnider?style=social" />
-  <img src="https://img.shields.io/github/stars/Alansnider?style=social" />
-</p>
+Projetar sistemas escaláveis • Escrever arquitetura limpa • Construir software confiável
 
----
+  
 
-## 🧠 Engineering Focus
+--- # 🧠 About Me Sou um desenvolvedor focado em construir software com qualidade de engenharia. Meu objetivo é transformar necessidades de negócio em sistemas: - Escaláveis - Seguros - Manuteníveis - Confiáveis Tenho interesse em arquitetura de software, desenvolvimento backend, sistemas distribuídos e boas práticas de engenharia. --- # 🏗️ Engineering Focus Minha abordagem é baseada em: - 🏛️ Arquitetura de Software - ⚙️ Backend Engineering - 🔐 Segurança e autenticação - 📐 Clean Architecture - 🧩 Domain-Driven Design - 🚀 Sistemas escaláveis - 🧪 Qualidade e testes de software --- # 🧰 Tech Stack ## Backend ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) --- ## Frontend ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) --- ## Database & Infrastructure ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) --- # 🏛️ Software Engineering Principles Princípios que guiam meu desenvolvimento: - Clean Code - SOLID Principles - Design Patterns - REST API Design - Layered Architecture - Clean Architecture - Domain-Driven Design (DDD) - API Security - Exception Handling - Automated Testing --- # 🚀 Featured Projects ## 🔐 Authentication Platform **Spring Boot + Security + JWT** Sistema de autenticação contendo: - Cadastro de usuários - Login seguro - JWT Authentication - Controle de acesso por roles - Criptografia de senha - Validação de dados - Tratamento global de erros --- ## 🏢 Condominium Management System Sistema para gerenciamento de condomínios: Funcionalidades: - Gestão de moradores - Controle financeiro - Comunicação interna - Reservas - Notificações Arquitetura: - API REST - Backend separado do frontend - Banco relacional - Segurança baseada em autenticação --- ## 📊 Business Dashboard Aplicação frontend integrada com APIs: - Componentização - Consumo de serviços REST - Gerenciamento de estado - Interfaces responsivas --- # 📊 GitHub Analytics
 
-I build **reliable, maintainable and scalable software systems** with strong focus on:
 
-- 🏗️ System Design (scalability, modularity, performance)
-- ⚙️ Backend Engineering (Java, C, REST APIs)
-- 🌐 Frontend Engineering (React, Angular)
-- 🔐 Security & authentication systems
-- 📦 Clean Architecture & SOLID principles
 
----
 
-## 🧰 Tech Stack
-
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### Tools & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 🏗️ System Design & Engineering Principles
-
-- Layered Architecture (Controller → Service → Repository)
-- RESTful API Design
-- Stateless Authentication (JWT)
-- Domain-driven thinking (DDD basics)
-- SOLID principles & Clean Code
-- Error handling strategy (global exception management)
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 Authentication System (Spring Boot + JWT)
-- User registration & login
-- JWT-based authentication
-- Role-based access control
-- Secure password hashing
-
----
-
-### 👥 User Management API
-- Full CRUD operations
-- DTO validation layer
-- Centralized exception handling
-- Clean architecture separation
-
----
-
-### 🌐 Frontend Dashboard (React / Angular)
-- API integration with backend services
-- Component-based architecture
-- State management
-- Responsive UI
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alansnider&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alansnider&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alansnider&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 💡 Engineering Philosophy
-
-> “Good software is not the one that works — it is the one that survives scale, change and time.”
-
-- Simplicity beats complexity
-- Design before implementation
-- Maintainability > speed
-- Systems > features
-
----
-
-## 📈 Continuous Growth
-
-- System Design (low-level + high-level)
-- Distributed systems fundamentals
-- Backend performance optimization
-- Frontend architecture patterns
-- DevOps awareness (CI/CD concepts)
-
----
-
-## 📫 Contact
-
-- 💼 LinkedIn: https://www.linkedin.com/in/alan-ferreira-08535132b/  
-- 🐙 GitHub: https://github.com/Alansnider  
-- 📧 Email: aalantqr@gmail.com  
-
----
-
-## 🎯 Career Goal
-
-To grow as a **Software Engineer capable of designing large-scale distributed systems**, focusing on backend architecture, performance and reliability.
+--- # 💡 Engineering Philosophy > "Software de qualidade não é apenas aquele que funciona. > É aquele que continua funcionando quando cresce, muda e evolui." Princípios: - Simplicidade antes da complexidade - Arquitetura antes da implementação - Qualidade antes da velocidade - Sistemas antes de funcionalidades --- # 📈 Currently Improving Estudando e evoluindo em: - System Design - Distributed Systems - Microservices Architecture - Performance Engineering - Cloud Computing - DevOps e CI/CD --- # 📫 Contact 💼 LinkedIn https://www.linkedin.com/in/alan-ferreira-08535132b/ 🐙 GitHub https://github.com/Alansnider 📧 Email aalantqr@gmail.com --- # 🎯 Career Goal Tornar-me um **Software Engineer capaz de projetar sistemas distribuídos de grande escala**, unindo conhecimento técnico, visão de negócio e capacidade de transformar problemas complexos em soluções simples, eficientes e confiáveis.
