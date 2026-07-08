@@ -3,6 +3,8 @@
 
 <p align="center">
   <b>Software Engineer | Backend Systems | Full Stack (Java, C, React, Angular)</b>
+   </b>Um profissional técnico com perfil de liderança humana: alguém que aprende profundamente, conecta pessoas e transforma conhecimento em soluções
+   estruturadas.</b>
 </p>
 
 <p align="center">
